@@ -1,0 +1,133 @@
+
+ @media (max-width: 991px) {
+     
+     .pull-right, 
+     .pull-left {
+         float: none !important;
+         margin: auto;
+     }
+     
+     .text-left,
+     .text-right {
+         
+         text-align: center;
+     }
+     
+     
+ }
+ 
+ 
+@media (min-width: 768px) and (max-width: 991px) { 
+    
+    html {
+        font-size: 90%;
+    } 
+    
+}
+
+
+@media(max-width:767px) {
+    
+	html {
+		font-size: 80%;
+	}
+
+}
+ 
+
+
+@media(max-width:480px) {
+    
+	html {
+		font-size: 65%;
+	}
+
+
+	body {
+		font-size: 13px;
+		line-height: 21px;
+        padding-right: 10px;
+    padding-left: 10px;
+	}
+}
+
+@media(max-width:320px) and (max-width: 767px) {
+    
+     .haematology-oncolo {
+        line-height: 30px;
+        text-align: center;
+     }
+    .bone-marrow-transpla {
+        font-size: 15px;
+    }
+    .doctors {
+        text-align: center;
+    }
+    .md-mrcp-ph-d-cct-le-copy {
+        font-size: 12px;
+    }
+    .line-3-copy-5 {
+        margin: 10px 126px;
+    }
+    .dr-vijay-agarwal-is-copy {
+        width: 270px;
+    }
+    .line-3-copy-6 {
+        width: 285px;
+    }
+    .what-are-the-types-o {
+        line-height: 34px;
+        font-size: 21px;
+    }
+  
+    .autologous-bone-marr {
+        width: 259px;
+        text-align: justify;
+        line-height: 28px;
+    }
+    .the-warning-signs-of {
+        font-size: 24px;
+        line-height: 40px;
+        padding: 0px 20px;
+    }
+    .cards {
+        margin: 20px 14px 0px 10px;
+
+    }
+    .accordion-started.accordion-bral .ac-label {
+        padding: 10px 0px 20px 20px;
+        line-height: 24px;
+        font-size: 14px;
+    }
+    .accordion-started.accordion-bral i {
+    
+        margin: 0px -38px 0px 0px;
+    }
+    .bmt-is-the-treatment {
+        width: 200px;
+        text-align: justify;
+        font-size: 13px;
+        line-height: 21px;
+    
+    }
+
+    .headpar {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .it-is-a-long-establi {
+        color: #000000;
+        font-family: StagSans;
+        font-size: 15px;
+        font-style: italic;
+        line-height: 21px;
+        width: 260px;
+        text-align: left;
+    }
+}
+	
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+
+ }
+	
